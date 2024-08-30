@@ -1,0 +1,11 @@
+.cards{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.category{
+    display: flex;
+    flex-direction: column;
+}
